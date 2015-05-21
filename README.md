@@ -16,7 +16,7 @@ Programming Assignment 2
    already been computed, and if it is, then it will get the  
    value from cache, else it will first compute it's inverse, 
    and then send across the inverse to makrCacheMatrix() to   
-          store the value of inverse in cache.                
+   store the value of inverse in cache.                
                                                               
                                                               
                         SAMPLE EXECUTION                      
