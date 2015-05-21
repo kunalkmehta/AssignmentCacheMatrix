@@ -25,13 +25,13 @@ Programming assignment 2 for R Course from John Hopkin's University, Course code
 #   > Matrix1<-makeCacheMatrix(c(4,3,3,2));                    #
 #   > cacheSolve(Matrix1);                                     #
 #     [1] "Matrix Inverse Will be:"                            #  
-           [,1] [,2]                                           # 
+     [  ]  [,1] [,2]                                           # 
 #    [1,]   -2    3                                            #
 #    [2,]    3   -4                                            #
 #                                                              #
 #   > cacheSolve(Matrix1);                                     #
 #     getting cached for Matrix Inverse                        #
-#           [,1] [,2]                                          #
+#     [  ]  [,1] [,2]                                          #
 #     [1,]   -2    3                                           # 
 #     [2,]    3   -4                                           #
 ################################################################
