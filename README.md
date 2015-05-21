@@ -11,8 +11,8 @@ Programming Assignment 2
      of rows and columns. Invertible matrix will always be    
    square matrix therefore this strategy will work to create  
                            matrix.                            
-                                                              
-    cacheSolve() function, first checks if the inverse has    
+                                                                                             
+cacheSolve() function, first checks if the inverse has    
    already been computed, and if it is, then it will get the  
    value from cache, else it will first compute it's inverse, 
    and then send across the inverse to makrCacheMatrix() to   
