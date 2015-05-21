@@ -67,7 +67,7 @@ cacheSolve <- function(test)
   
   if(!is.null(checkmat)) # If the inverse exists, then take the value from cache
   {
-    message("getting cached for Matrix Inverse");
+    print("getting cached for Matrix Inverse");
     inv<-test$getinv(); # Retrieving value from cache
   }
   else # If inverse doesn't exist then compute the value of inverse
